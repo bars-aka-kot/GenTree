@@ -1,6 +1,4 @@
-﻿using System.Xml.Linq;
-
-namespace GenTree
+﻿namespace GenTree
 {
     class Person
     {

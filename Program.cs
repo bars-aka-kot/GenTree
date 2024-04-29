@@ -1,7 +1,4 @@
-﻿using System;
-using System.Linq;
-
-namespace GenTree
+﻿namespace GenTree
 {
     internal class Program
     {
@@ -56,7 +53,6 @@ namespace GenTree
             FamilyMember.PrintCloseRelatives(father);
 
             Console.ReadKey(true);
-
         }
     }
 }
