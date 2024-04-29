@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenTree", "GenTree.csproj", "{7AB74D50-C3FB-4C3C-A279-E6CA11001648}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AB74D50-C3FB-4C3C-A279-E6CA11001648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB74D50-C3FB-4C3C-A279-E6CA11001648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB74D50-C3FB-4C3C-A279-E6CA11001648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB74D50-C3FB-4C3C-A279-E6CA11001648}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1FDE36B-CABF-43C7-9A2B-63698EF04B96}
+	EndGlobalSection
+EndGlobal
